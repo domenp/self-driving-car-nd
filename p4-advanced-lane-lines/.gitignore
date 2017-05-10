@@ -1,0 +1,8 @@
+*.mp4
+*.ipynb
+debug_images
+.idea
+.ipynb_checkpoints
+*.pyc
+__pycache__
+
