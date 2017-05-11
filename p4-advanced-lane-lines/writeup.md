@@ -9,7 +9,7 @@ I start by preparing "object points", which will be the (x, y, z) coordinates of
 I then used the output `objpoints` and `imgpoints` to compute the camera calibration and distortion coefficients using the `cv2.calibrateCamera()` function.  I applied this distortion correction to the test image using the `cv2.undistort()` function and obtained this result:
 
 Original image:
-![calibration image](udacity/camera_cal/calibration5.jpg)
+![calibration image](https://github.com/udacity/CarND-Advanced-Lane-Lines/blob/a7330d8f2e37f5a51acdcc3daa6506062f11684a/camera_cal/calibration5.jpg?raw=true)
 
 Undistorted:
 ![undist](writeup_images/undist.jpg)
