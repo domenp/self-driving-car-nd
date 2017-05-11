@@ -1,3 +1,3 @@
-[submodule "udacity-lane-lines"]
+[submodule "p4-advanced-lane-lines/udacity"]
 	path = p4-advanced-lane-lines/udacity
 	url = https://github.com/udacity/CarND-Advanced-Lane-Lines
