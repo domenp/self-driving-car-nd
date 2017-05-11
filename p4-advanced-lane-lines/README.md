@@ -2,6 +2,8 @@
 
 The goal of this project was to create a robust pipeline (algorithm) to identify the lane boundaries in a video.
 
+![alt text](writeup_images/lane.jpg)
+
 An explanation of the pipeline is available in the [writeup](writeup.md).
 
 ## Steps to reproduce the results
