@@ -1,3 +1,6 @@
 [submodule "p4-advanced-lane-lines/udacity"]
 	path = p4-advanced-lane-lines/udacity
 	url = https://github.com/udacity/CarND-Advanced-Lane-Lines
+[submodule "p5-vehicle-detection/udacity"]
+	path = p5-vehicle-detection/udacity
+	url = https://github.com/udacity/CarND-Vehicle-Detection
